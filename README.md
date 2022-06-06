@@ -1,6 +1,6 @@
 # Sample Repo
 
-This Repo is for creating a todolist.
+This is a simple Reposatory is for creating a todolist.
 
 ## Built With
 
