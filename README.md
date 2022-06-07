@@ -1,6 +1,6 @@
 # Sample Repo
 
-This Repo is for creating a todolist.
+This Repo is for creating a todolist with webpack
 
 ## Built With
 
@@ -14,7 +14,7 @@ Sample Todolist
 
 # Live Demo
 
-(https://waqaskanju.github.io)
+[Show Live ](https://waqaskanju.github.io/to-do-list)
 
 ## Getting Started
 
