@@ -1,6 +1,6 @@
-# Sample Repo
+# To-do-list
 
-This Repo is for creating a todolist.
+This repo contain an application where user can store his do-to work, can makr it as completed and can remove it..
 
 ## Built With
 
@@ -10,7 +10,7 @@ This Repo is for creating a todolist.
 
 # Project Name
 
-Sample Todolist
+To-do-list
 
 # Live Demo
 
