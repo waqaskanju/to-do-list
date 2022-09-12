@@ -16,6 +16,11 @@ To-do-list
 
 (https://waqaskanju.github.io)
 
+# Snaps
+![image](https://user-images.githubusercontent.com/13853450/189748483-7c2f0686-b039-4535-bd1f-8b7a133135b4.png)
+![image](https://user-images.githubusercontent.com/13853450/189748759-9fb6b223-6f60-49a3-91dd-0547090492d2.png)
+
+
 ## Getting Started
 
 To get a local copy up and running follow these sample example steps.
